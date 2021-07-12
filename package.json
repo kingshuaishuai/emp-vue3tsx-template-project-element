@@ -1,0 +1,8 @@
+{
+  "name": "emp-vue3tsx-template-project-element",
+  "version": "1.0.0",
+  "description": "Emp template for vue3. This project uses element-plus and scss and includes vuex and vue-router.",
+  "main": "index.js",
+  "author": "kingshuaishuai <ken.wang@mrs.ai>",
+  "license": "MIT"
+}
